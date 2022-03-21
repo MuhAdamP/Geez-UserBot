@@ -123,7 +123,7 @@ UPSTREAM_REPO_URL = os.environ.get(
 
 # Owner Only
 DEVS = (
-    5155140917,
+    1878075436,
     5140259938,
     1826643972,
     1977874449,
